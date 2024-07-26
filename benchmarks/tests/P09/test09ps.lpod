@@ -1,0 +1,11 @@
+a1 x a2.
+b1 x b2.
+
+c1 x c2.
+d1 x d2.
+
+e1 x e2.
+
+-a1 :- b1.
+
+#option --true-negation --priorities.

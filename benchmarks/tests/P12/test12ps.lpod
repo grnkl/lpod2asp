@@ -1,0 +1,20 @@
+-a1 x b1.
+a1 x -b1.
+-a2 x b2.
+a2 x -b2.
+-a3 x b3.
+a3 x -b3.
+-a4 x b4.
+a4 x -b4.
+-a5 x b5.
+a5 x -b5.
+-a6 x b6.
+a6 x -b6.
+-a7 x b7.
+a7 x -b7.
+-a8 x b8.
+a8 x -b8.
+-a9 x b9.
+a9 x -b9.
+
+#option --true-negation --priorities.

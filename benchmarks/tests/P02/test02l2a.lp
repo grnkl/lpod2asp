@@ -1,0 +1,30 @@
+-h1 >> -k1.
+-f1 >> k1 :- -l1, not -c1, not d1.
+-f1 :- j1, l1, not h1, not f1, not e1, not k1, not -l1, not d1, not -j1, not -a1.
+d1 :- a1, not i1, not e1, not f1, not -e1, not -i1.
+-a1 :- m1, -j1, b1, not g1, not a1, not h1, not -h1, not l1, not f1, not c1, not -e1, not -b1, not j1, not e1, not -l1, not k1, not -f1, not -d1, not -g1, not -i1, not -c1, not d1, not -k1, not i1.
+a1 :- c1, not h1, not -c1, not b1.
+d1 :- -f1, -k1, -l1, not g1, not a1, not b1, not -j1, not l1, not f1, not j1, not e1, not -d1, not -e1, not -b1, not -g1, not -c1, not -i1, not -a1.
+-d1 :- a1, k1, -l1, b1.
+-f1 :- g1, -k1, -b1, j1, not -e1, not c1, not i1.
+-h1 :- h1, -d1, -a1, -j1, c1, b1, d1, k1, not -g1.
+-h1 :- c1, b1, l1, not -i1, not e1.
+-c1 :- -g1, -l1, l1, not -h1, not f1, not d1, not -j1, not e1.
+m1 :- -d1, -e1, -j1, -i1, -k1, b1, i1, -f1, k1, -g1, -l1, not a1, not -h1, not l1, not e1.
+-g1 :- not b1, not m1, not i1, not h1, not f1, not l1, not -f1, not j1, not -k1, not -i1, not -a1.
+-a1 :- not -c1.
+e1 :- -c1, a1, -l1, not h1, not f1, not -f1, not j1, not -e1, not -d1, not -b1, not -i1, not d1, not -k1, not -j1.
+c1 :- -d1, m1, -a1, -e1, a1, e1, g1, j1, -i1, -b1, b1, d1, -c1, k1, -l1, l1, not i1, not h1, not -f1, not -j1.
+-k1 :- m1, -a1, -j1, c1, e1, j1, -i1, -b1, f1, -f1, -g1.
+-c1 :- g1, k1, -a1, -e1, -h1, not -f1.
+m1 :- b1, -i1, not h1, not -l1, not d1, not -h1.
+-c1 :- m1, g1, e1, a1, f1, k1, not i1, not h1, not c1, not -f1, not j1, not -d1, not -g1, not -j1.
+-k1 :- -j1, d1, not f1, not b1, not -e1.
+-a1 :- not g1, not a1, not b1, not m1, not -h1, not f1, not -b1, not d1, not -i1.
+-a1 :- h1, -k1, not -l1, not l1, not -j1.
+-c1 :- j1, not g1, not i1, not h1, not l1, not f1, not -d1, not -i1, not -g1, not -k1, not m1, not -a1.
+-i1 :- h1, m1, -a1, -e1, a1, e1, -b1, i1, -g1, -l1, not g1, not b1, not -h1, not l1, not f1, not -f1, not c1, not j1, not -d1, not k1, not -k1, not -c1, not d1, not -j1.
+e1 :- m1, i1, g1, j1, -i1, -k1, d1, k1, -g1, -l1, not -c1, not a1, not -a1.
+-l1 :- not c1.
+-e1 :- h1, m1, -a1, -j1, e1, a1, j1, -k1, -b1, b1, d1, -f1, k1, -l1, l1, not -c1, not f1, not -g1.
+-e1 :- a1, e1, -b1, -f1, b1, not -g1.
